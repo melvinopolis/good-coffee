@@ -3,7 +3,7 @@ body {
 }
 
 .jumbotron {
-	background-image: url("img/coffee-header.jpg");
+	background-image: url("../img/coffee-header.jpg");
 	padding: 20%;
 	background-repeat: no-repeat;
 	background-size: cover;
